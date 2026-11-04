@@ -1,0 +1,32 @@
+body{
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.contenedor{
+    margin-top: 80px;
+}
+
+h2{
+    font-size: 50px;
+    color: darkgray;
+}
+
+button{
+padding: 12px 20px;
+margin: 5px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+#sumar{
+    background-color: green;
+    color: white;
+}
+
+#reiniciar{
+    background-color: #dc2020;
+    color: white;
+}
